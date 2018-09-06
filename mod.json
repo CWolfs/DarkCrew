@@ -1,0 +1,15 @@
+{
+    "Name": "DarkCrew",
+    "Enabled": true,
+
+    "Version": "0.1.0",
+    "Description": "The mercenary company crew have all been replaced by their dark counterparts.",
+    "Author": "CWolf",
+    "Contact": "cwolfs@gmail.com",
+
+    "DLL": "DarkCrew.dll",
+    "DLLEntryPoint": "DarkCrew.Main.Init",
+    "Settings": {
+        "InspectorDebugMode": false
+    }
+}
